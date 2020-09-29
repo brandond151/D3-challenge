@@ -26,13 +26,13 @@
 /* font size dependent on radius, see app.js */
 .stateText {
   font-family: sans-serif;
-  fill: #fff;
+  fill: rgb(250, 5, 5);
   text-anchor: middle;
 }
 
 .stateCircle {
   fill: #89bdd3;
-  stroke: #e3e3e3;
+  stroke: #4ee940;
 }
 
 .chart {
@@ -45,7 +45,7 @@
   font-size: 12px;
   line-height: 1;
   line-height: 1.5em;
-  color: #fff;
+  color: rgb(248, 4, 4);
   text-align: center;
   text-transform: capitalize;
   background: rgba(0, 0, 0, 0.8);
